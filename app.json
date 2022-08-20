@@ -1,0 +1,106 @@
+{
+    "name": "Checker bot",
+    "description": "A Telegram CC Checker Bot with hella lotta features.",
+    "logo": "https://pbs.twimg.com/profile_images/1252291883793027074/RfEhm8yV_400x400.jpg",
+    "keywords": [
+        "Telegram",
+        "Bot",
+        "Modular"
+    ],
+    "website": "https://telegram.me/SDMN_CheckerBot",
+    "repository": "https://github.com/iam-NVN/SDMN_CheckerBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Enter your Bot Token Here. Get it from @Botfather",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Enter the User ID of Admin.",
+            "value": "",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Enter the ID of a Group/Channel to store Logs",
+            "value": "",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "Database URL",
+            "value": "",
+            "required": true
+        },
+        "REDIS_URI": {
+            "description": "Database Username",
+            "value": "",
+            "required": true
+        },
+        "REDIS_PORT": {
+            "description": "Database Password",
+            "value": "",
+            "required": false
+        },
+        "REDIS_PASS": {
+            "description": "Database Name",
+            "value": "",
+            "required": true
+        },
+        "SESSION_API_ID": {
+            "description": "AntiSpam Timer Value in seconds",
+            "value":"20",
+            "required": true
+        },
+        "SESSION_API_HASH": {
+            "description": "Enter SK Keys Here. Separate Multiple Keys with ,",
+            "value": "",
+            "required": false
+        },
+        "SESSION_STRING": {
+            "description": "Your Preffered TimeZone",
+            "value": "Asia/Kolkata",
+            "required": false
+        },
+        "ADMINS": {
+            "description": "Database Name",
+            "value": "",
+            "required": true
+        },
+        "OWNER": {
+            "description": "AntiSpam Timer Value in seconds",
+            "value":"20",
+            "required": true
+        },
+        "BOT_PIC": {
+            "description": "Enter SK Keys Here. Separate Multiple Keys with ,",
+            "value": "",
+            "required": false
+        },
+        "OWNER_PIC": {
+            "description": "Your Preffered TimeZone",
+            "value": "Asia/Kolkata",
+            "required": false
+        },
+        "SUPPORT_CHAT": {
+            "description": "Database Name",
+            "value": "",
+            "required": true
+        },
+        "LOG_CHAT": {
+            "description": "AntiSpam Timer Value in seconds",
+            "value":"20",
+            "required": true
+        },
+        "HANDLERS": {
+            "description": "Enter SK Keys Here. Separate Multiple Keys with ,",
+            "value": "",
+            "required": false
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
