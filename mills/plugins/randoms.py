@@ -6,8 +6,6 @@
 ──────────────────────
 - <code>/randpic</code> : Get a random user pic.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import inspect
 import io
