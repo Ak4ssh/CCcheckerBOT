@@ -5,8 +5,6 @@
 ──────────────────────
 - <code>/phone <phonenumber></code>: Get phone number information with + and country code.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import inspect
 import io
