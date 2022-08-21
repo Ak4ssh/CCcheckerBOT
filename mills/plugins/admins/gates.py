@@ -25,7 +25,6 @@
 <code>/list_gate<code>: List of all gates added in bot
 ➻ Example: <code>/list_gate<code>
 ──────────────────────
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
