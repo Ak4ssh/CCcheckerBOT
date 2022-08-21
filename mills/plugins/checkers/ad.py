@@ -4,8 +4,6 @@
 - <code>/ad</code> cc cvv mes ano || <reply_to_msg>
 ➛ Adyen Charge $56
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
