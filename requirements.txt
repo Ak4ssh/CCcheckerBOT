@@ -27,6 +27,7 @@ fuzzywuzzy
 # python-Levenshtein
 opencv-python
 qrcode
+redis-cli
 pillow
 bs4
 aiofiles
