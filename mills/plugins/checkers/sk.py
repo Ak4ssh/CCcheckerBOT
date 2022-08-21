@@ -4,8 +4,6 @@
 ──────────────────────
 <code>/sk</code> key || <reply_to_msg> - Check Stipe Key
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
@@ -44,7 +42,7 @@ Sk key checker:
 {r_text}{r_logo} - <code>{inp}</code>[{r_respo}]
 
 <b>Scrapped By</b> -» <a href= "tg://user?id={m.sender.id}">{m.sender.id}</a>
-<b>Host</b> -» <a href="https://t.me/roldexverse">RoldexVerse</a>
+<b>Host</b> -» <a href="https://t.me/TheVenomXD">TheVenomXD</a>
 """
     await m.reply(text)
         
