@@ -4,8 +4,6 @@
 - <code>/al</code> cc cvv mes ano || <reply_to_msg>
 ➛ Authorize Charge $10
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
