@@ -25,20 +25,20 @@ from mills.plugins.checkers.utils.tools import cc_gen
 
 SUP_BUTTONS = [
     [
-        Button.url("• Github •", url="https://github.com/r0ld3x"),
-        Button.url("• Support •", url="t.me/roldexverse"),
+        Button.url("• Github •", url="https://github.com/DesiNobita"),
+        Button.url("• Support •", url="t.me/Suzune_Support"),
     ],
     [
         Button.inline("• Up Time •", "upp"),
-        Button.inline("• Ping •","pkng"),
+        Button.inline("• Ping •","pong"),
     ],
 ]
 
 
 HELP_BUTTONS = [
     [
-        Button.url("• Owner •", url="https://t.me/r0ld3x"),
-        Button.url("• Support •", url="https://t.me/roldexverse"),
+        Button.url("• Owner •", url="https://t.me/TheVenomXD"),
+        Button.url("• Support •", url="https://t.me/Suzune_Support"),
     ],
 ]
 
