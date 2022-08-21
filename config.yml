@@ -4,8 +4,8 @@ BOT_TOKEN: 5258725538:AAGuC7cV7nd0yjlM0FZpiXYvWna_6FzoNlU
 
 
 MONGO_URL: mongodb+srv://SuzuneChat:Bot@cluster0.schotdn.mongodb.net/?retryWrites=true&w=majority
-REDIS_URI: redis-16550.c53.west-us.azure.cloud.redislabs.com:16550
-REDIS_PORT:
+REDIS_URI: redis-16550.c53.west-us.azure.cloud.redislabs.com
+REDIS_PORT: 16550
 REDIS_PASS: rL1culHTprVJH91J55OQxapHH6qYPYrv
 
 SESSION_API_ID: 2497276
@@ -21,7 +21,7 @@ BOT_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
 OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
 
 
-SUPPORT_CHAT: roldexversechats 
+SUPPORT_CHAT: Suzune_Support
 # LOG_CHAT: 
 LOG_CHAT: -1001665081502
 
