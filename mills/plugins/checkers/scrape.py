@@ -4,8 +4,6 @@
 ──────────────────────
 <code>/scrape</code> username amount  - Scrape amount no. cards from the username
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
@@ -98,7 +96,7 @@ async def _(m):
 <b>CC Found</b> -» <code>{len(all_cards)}</code> cards
 
 <b>Scrapped By</b> -» <a href= "tg://user?id={m.sender.id}">{m.sender.id}</a>
-<b>Host</b> -» <a href="https://t.me/roldexverse">RoldexVerse</a>
+<b>Host</b> -» <a href="https://t.me/TheVenomXD">TheVenomXD</a>
 """
         is_true = await m.sod(mess , file = f'{len(all_cards)}x{ent.username if ent.username else ""}.txt')
         if is_true:
