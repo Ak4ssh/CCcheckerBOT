@@ -151,7 +151,7 @@ async def _(event):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/TeamDarkWeb"),
                 ],
             ],
         )
@@ -170,7 +170,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/TeamDarkWeb"),
                 ],
             ],
         )
@@ -184,7 +184,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/TeamDarkWeb"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
@@ -204,7 +204,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/TeamDarkWeb"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
@@ -240,7 +240,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/TeamDarkWeb"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
@@ -262,7 +262,7 @@ async def _(m):
             buttons=[
                 [
                     Button.url(client.name, url="t.me/{}".format(client.botname)),
-                    Button.url("Channel", url="t.me/roldexverse"),
+                    Button.url("Channel", url="t.me/TeamDarkWeb"),
                 ],
             ],
             thumb=InputWebDocument(BOT_PIC, 0, "image/jpg", []),
