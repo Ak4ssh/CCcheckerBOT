@@ -4,8 +4,6 @@
 - <code>/cc</code> cc cvv mes ano || <reply_to_msg>
 ➛ Stripe Charge $0.1
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
