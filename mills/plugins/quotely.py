@@ -3,8 +3,6 @@
 ──────────────────────
 <code>/q</code> : get quote of replied message.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
