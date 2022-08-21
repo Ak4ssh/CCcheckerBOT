@@ -18,7 +18,7 @@ client.run(startup())
 
 suc_msg = """
             ----------------------------------------------------------------------
-                Millie has been deployed! Visit @RoldexVerse for updates!!
+                Cynics has been deployed! Visit @Suzune_Support for updates!!
             ----------------------------------------------------------------------
 """
 
@@ -27,6 +27,6 @@ Importer('mills/plugins', True)
 
 
 if '__main__' == __name__:
-    log.info("Took {} seconds to deploy Millie".format(time_formatter((time() - start_time) * 1000)))
+    log.info("Took {} seconds to deploy Cynics".format(time_formatter((time() - start_time) * 1000)))
     log.info(suc_msg)
     client.rud()
