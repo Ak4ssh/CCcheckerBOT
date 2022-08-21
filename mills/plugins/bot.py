@@ -48,7 +48,7 @@ async def _(m,lang):
     buttons = [
         [
             Button.url("Support", f'https://t.me/{SUPPORT_CHAT}'),
-            Button.url("Source code", 'https://t.me/TheVenomXD),
+            Button.url("Source code", 'https://t.me/TheVenomXD'),
         ],[
             Button.url("Donate", 'https://t.me/Suzune_Support'),
             Button.url("Owner", 'https://t.me/TheVenomXD'),
