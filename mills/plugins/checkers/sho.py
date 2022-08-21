@@ -5,8 +5,6 @@
 - <code>/au</code> cc cvv mes ano || <reply_to_msg>
 ➛ Auth Gate
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
