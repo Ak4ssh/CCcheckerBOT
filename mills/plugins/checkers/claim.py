@@ -7,8 +7,6 @@
     - <b>Key</b>: Key which you got from the admin of this bot.
 ➻ Example: <code>/claim *key*</code>
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
