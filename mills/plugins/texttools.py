@@ -8,8 +8,6 @@
 ──────────────────────
 <code>/short</code> url : Get short link of long links..
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import asyncio
 import inspect
