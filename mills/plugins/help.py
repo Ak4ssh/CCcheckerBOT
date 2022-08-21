@@ -6,8 +6,6 @@
 ──────────────────────
 - <code>/help<code>: Get all available commands with detailed information.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import inspect
 import io
