@@ -8,8 +8,6 @@
 ──────────────────────
 - <code>/shorturl</code> url : Download YouTube videos.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import asyncio
 import inspect
