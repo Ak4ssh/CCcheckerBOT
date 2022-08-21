@@ -4,8 +4,6 @@
 ──────────────────────
 <code>/bin</code> bin || <reply_to_msg> - Information about the Bin.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
