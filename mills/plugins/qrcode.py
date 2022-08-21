@@ -8,8 +8,6 @@
 ──────────────────────
 - <code>/calender</code>: Get Current Month calender.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import calendar
 import datetime
