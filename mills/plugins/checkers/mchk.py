@@ -5,8 +5,6 @@
 - <code>/mchk</code> cards || <reply_to_msg>.
 ➛ Charge 10$.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
