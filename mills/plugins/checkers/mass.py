@@ -5,8 +5,6 @@
 - <code>/mass</code> cards || <reply_to_msg>.
 ➛ Charge 127$.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
