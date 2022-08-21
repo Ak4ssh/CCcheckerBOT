@@ -4,8 +4,6 @@
 - <code>/vbv</code> cc cvv mes ano || <reply_to_msg>
 ➛ Vbv Check b3
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 
