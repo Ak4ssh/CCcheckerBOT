@@ -1,6 +1,6 @@
 start: |
   Hello <a href="tg://user?id={id}">{name}</a>!
-  I am <a href="https://t.me/MillieRusk_bot">Millie</a> from <a href="https://t.me/roldexverse">RoldexVerse</a>
+  I am <a href="https://t.me/CynicsCheckerBot">Millie</a> from <a href="https://t.me/TheVenomXD">TheVenomXD</a>
   hit /cmds to chek my all Available commands.
 
 
@@ -55,12 +55,12 @@ ipinfo: |
 card_chk: 
   fir_msg: |
     <b><a href="tg://user?id={id}">{name}</a> Wait checking your card. </b>
-    <b>[×] ■■□□□□□□□□ 20%</b>
+    <b>[×] ■■ 20%</b>
     <b>[×] Elapsed</b>: <b>{taken}'s</b>
 
   mid_msg: |
     <b><a href="tg://user?id={id}">{name}</a> Wait checking your card. </b>
-    <b>[×] ■■■■■□□□□□ 50%</b>
+    <b>[×] ■■■■■ 50%</b>
     <b>[×] Elapsed</b>: <b>{taken}'s</b>
   
   fin_msg: |
