@@ -6,8 +6,6 @@
 ──────────────────────
 <code>/purge</code>: delete from replied message .
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 
 # from telethon import Button
