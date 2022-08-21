@@ -21,8 +21,6 @@
 ──────────────────────
 - <code>/rmbg</code>: Remove Background from Image.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import asyncio
 import inspect
