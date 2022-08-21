@@ -7,8 +7,6 @@
 ──────────────────────
 - <code>/demote</code>: Demote replied user.
 ──────────────────────
-
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
 """
 import inspect
 import io
