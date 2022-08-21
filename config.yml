@@ -1,6 +1,6 @@
 API_ID: 2497276
 API_HASH: 78122b16901bda6c500eebe931b31d42
-BOT_TOKEN: 5258725538:AAGuC7cV7nd0yjlM0FZpiXYvWna_6FzoNlU
+BOT_TOKEN: 5621108899:AAF92StgpVU6FD88bPChbqZeWTDGomYsZcc
 
 
 MONGO_URL: mongodb+srv://SuzuneChat:Bot@cluster0.schotdn.mongodb.net/?retryWrites=true&w=majority
@@ -18,7 +18,7 @@ ADMINS:
 OWNER: 1789859817
 
 BOT_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
-OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
+OWNER_PIC: https://telegra.ph/file/21d1cdfd3714aff7124c6.jpg
 
 
 SUPPORT_CHAT: Suzune_Support
@@ -32,4 +32,5 @@ HANDLERS:
   - "!"
   - "/"
   - "?"
+  - "~"
 
